@@ -7,7 +7,7 @@ and a solution.gradle file are also provided.
 This course is specifically concerned with the app build process, not writing
 apps in the first place. If you're just starting out on your Android journey,
 
-### What is a Gradle
+### What is a Gradle?
 Gradle is an open-source build automation tool focused on flexibility and performance. Gradle build scripts are written using a [Groovy](https://groovy-lang.org/) or [Kotlin](https://kotlinlang.org/) DSL. Read about [Gradle features](https://gradle.org/features/) to learn what is possible with Gradle.
 
 . Highly customizable — Gradle is modeled in a way that is customizable and extensible in the most fundamental ways.
